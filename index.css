@@ -1,0 +1,20 @@
+.cardbutton{
+    position:center;
+    margin: auto;
+
+
+}
+
+.setbackgrnd{
+    background-image: url(/Users/aaronwinn/Desktop/devpoint/flashapp/mountains-Kirkjufe_3374110a.jpg);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.card{
+    margin: auto;
+
+}
